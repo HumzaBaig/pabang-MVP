@@ -6,6 +6,14 @@ Pabang is a web browser automation script for Glassdoor that utilizes the Seleni
 
 Created by Humza Baig, Jay Hwang, and Michael Pak.
 
+### Pre-Project Instructions
+
+For Pabang to work, your machine needs to have chromedriver installed. The easiest way is to use homebrew
+
+1. After installing homebrew onto your machine, type `brew install chromedriver`
+
+2. If you want to install chromedriver another way, refer to this [link](https://sites.google.com/a/chromium.org/chromedriver/) .
+
 ### Instructions
 
 Before beginning, make sure you have ruby 2.3.1 installed on your machine.
